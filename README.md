@@ -59,7 +59,7 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahirmonks&show_icons=true&theme=transparent&hide_border=false" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahirShan786&show_icons=true&theme=transparent&hide_border=false" height="150px"/>
   <img src="https://streak-stats.demolab.com?user=shahirmonks&theme=transparent&hide_border=false" height="150px"/>
 </p>
 
